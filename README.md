@@ -5,5 +5,3 @@
 - ⚡ Fun fact: I'm handsome !!!
 - 📝 Some WU CTF: 
 
-
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LittleNoPro&show_icons=true&theme=dark#gh-dark-mode-only)"/>
