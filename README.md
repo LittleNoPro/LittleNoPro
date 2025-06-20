@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning cyber security in UIT
 - 👀 I’m interested in Cryptography, Coding
 - ⚡ Fun fact: I'm handsome !!!
-- 📝 Some WU CTF: https://hackmd.io/@L1ttl3NoPro
+- 📝 Some WU CTF: https://LittleNoPro.github.io
+
 
